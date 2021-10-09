@@ -8,4 +8,5 @@ Command.news show the latest IT news!
 Command.news collect and track the latest IT news, and upload it on the site. 
 > (News are form google news) 
 - Upload  
-If I have missed news, then you can upload it or more better news.
+If I have missed news, then you can upload it or more better news.  
+> (You can upload news in 10 per a minute)
